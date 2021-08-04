@@ -1,3 +1,6 @@
+This is a sorting algorithm visualizer app with the ability to change the animation time. The main purpose of this project 
+was to learn the techniques behind the sorting algorithms and visualizing them helps to understand them fully, plus it's fun!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
