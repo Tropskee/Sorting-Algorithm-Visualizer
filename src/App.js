@@ -4,7 +4,6 @@
 // respective times, and what they look like
 
 
-
 import SortingVisualizer from './SortingVisualizer/sortingVisualizer';
 import React from 'react';
 import './App.css';
